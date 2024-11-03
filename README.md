@@ -18,8 +18,6 @@ Welcome to the **Collaborative Story Writing** activity! In this repository, you
 - **Conclude the Story Together**: After each person adds their line, collaborate to ensure the story has a satisfying ending within the five-line limit.
 - **Focus on Quality**: Make each line meaningful to contribute to the story’s theme or plot.
 
-**Goal**: Work together to create a cohesive story that’s complete in just five lines!
-
 ---
 ## **Getting Started**
 ### 1. 👥 Form Your Group
