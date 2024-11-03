@@ -6,14 +6,23 @@ Welcome to the **Collaborative Story Writing** activity! In this repository, you
 
 ## 📚 **Objective**
 
-- **Collaborate** with your group to write a creative story.
+- **Collaborate** with your group to write a creative 5-line story.
 - **Practice** using Git commands for team collaboration.
 - **Experience** and **resolve** merge conflicts.
 - **Enhance** communication and coordination skills.
 
+## 📏 Guidelines to Complete the Story in 5 Lines
+
+- **Limit Contributions**: Each person should add **one sentence or phrase** to keep the story concise.
+- **Build on Previous Lines**: Read what others have written before adding your line to maintain a logical flow.
+- **Conclude the Story Together**: After each person adds their line, collaborate to ensure the story has a satisfying ending within the five-line limit.
+- **Focus on Quality**: Make each line meaningful to contribute to the story’s theme or plot.
+
+**Goal**: Work together to create a cohesive story that’s complete in just five lines!
+
 ---
 ## **Getting Started**
-### 1. 👥 **Form Your Group**
+### 1. 👥 Form Your Group
 - **Group Size:** 4-5 students. 
 - **Action:** Sit together or connect virtually to facilitate communication. Pick a group coordinator.
 
