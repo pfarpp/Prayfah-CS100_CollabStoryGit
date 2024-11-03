@@ -33,3 +33,23 @@ Welcome to the **Collaborative Story Writing** activity! In this repository, you
 
 **Remember**: You'll all be editing the **same file** at the **same time**.
 
+### 4.✍️ **Contribute Your Line to the Story**
+
+- **Edit the file**: open story.txt file in your local repository and add your line at the end of the file. Save your changes.
+- **Stage the Changes**: add the file to the staging area
+     ```bash
+     git add story.txt
+     ```
+
+- **Commit the Changes**: commit your contribution with a meaningful message:
+     ```bash
+     git commit -m "Added my line to the story"
+     ```
+
+- **Push to the Shared Repository**: push your changes to the remote repository:
+     ```bash
+     git push origin main
+     ```
+
+**Note**: If you encounter an error when pushing, it may mean the repository has new changes. In that case, pull the latest changes, resolve any conflicts, and try pushing again.
+
