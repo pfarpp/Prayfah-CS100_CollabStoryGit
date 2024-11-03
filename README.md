@@ -12,12 +12,24 @@ Welcome to the **Collaborative Story Writing** activity! In this repository, you
 - **Enhance** communication and coordination skills.
 
 ---
+## **Getting Started**
+### 1. 👥 **Form Your Group**
+- **Group Size:** 4-5 students. 
+- **Action:** Sit together or connect virtually to facilitate communication. Pick a group coordinator.
 
-## 🛠️ **Getting Started**
 
-### 1. **Clone the Repository**
 
-First, clone this repository to your local machine:
+### 2. 🛠️ **Setup a Shared Repository**
 
-```bash
-git clone [repository_url]
+- **Fork the Repository**: The group coordinator clicks **Fork** on this repository to create a copy under their GitHub account.
+- **Add Collaborators**: Go to **Settings > Manage access** in the forked repository, click **Invite a collaborator**, and add other group members.
+- **Accept Invitation**: Each collaborator accepts the invitation via email or GitHub notifications.
+- **Clone the Repository**: All group members clone the forked repository to their local machines.
+
+### 3. 📝 **Plan Your 5-Line Story**
+
+- **Discuss with your group:** Theme of the story, characters, setting, and plot ideas.
+- **Decide** which member will contribute which line to the shared repository.
+
+**Remember**: You'll all be editing the **same file** at the **same time**.
+
