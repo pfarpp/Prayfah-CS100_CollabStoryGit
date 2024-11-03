@@ -53,3 +53,64 @@ Welcome to the **Collaborative Story Writing** activity! In this repository, you
 
 **Note**: If you encounter an error when pushing, it may mean the repository has new changes. In that case, pull the latest changes, resolve any conflicts, and try pushing again.
 
+## 🔄 Resolving Push Errors and Merge Conflicts
+
+1. **Pull the Latest Changes**:
+   - If you encounter an error when pushing, first pull the latest changes from the remote repository:
+     ```bash
+     git pull origin main
+     ```
+
+2. **Identify Merge Conflicts**:
+   - If there are conflicts, Git will notify you and mark them in the file. Open `story.txt` to locate conflict markers:
+     ```plaintext
+     <<<<<<< HEAD
+     Your changes here
+     =======
+     Changes from the remote
+     >>>>>>> [commit-hash]
+     ```
+
+3. **Resolve Conflicts**:
+   - Edit the file to keep both contributions, ensuring the story flows smoothly.
+   - Remove the conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`).
+
+4. **Stage the Resolved File**:
+   - After resolving conflicts, add the file back to the staging area:
+     ```bash
+     git add story.txt
+     ```
+
+5. **Commit the Merge**:
+   - Commit the resolved changes:
+     ```bash
+     git commit -m "Resolved merge conflicts in story.txt"
+     ```
+
+6. **Push the Resolved Changes**:
+   - Finally, push your changes to the remote repository:
+     ```bash
+     git push origin main
+     ```
+
+## 🎉 Review the Final Story
+
+- **Visit the repository** on GitHub to see the updated `story.txt`.
+- **Read through the story** with your group to enjoy the collaborative result.
+- **Celebrate your teamwork** and appreciate each contribution!
+
+---
+
+## 🤝 Tips for Success
+
+- **Communicate Regularly**: Keep your group informed about your changes and coordinate pushes and pulls.
+- **Stay Calm with Conflicts**: Merge conflicts are a normal part of collaboration. Take your time to resolve them carefully.
+- **Ask for Help if Needed**: Reach out to your instructor or teammates if you encounter any issues.
+
+---
+
+## 📖 Additional Resources
+
+- **Git Documentation on Merge Conflicts**:
+  - [Git - Basic Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+  - [Atlassian Git Tutorials - Merge Conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
