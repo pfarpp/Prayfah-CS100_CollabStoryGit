@@ -1,3 +1,8 @@
 Once upon a time, in a land far, far away...
+<<<<<<< HEAD
 A hungry fox found an egg and thought, “A chick will be a bigger meal.”
 But when it hatched, he saw a tiny, fluffy chick staring up at him.
+=======
+Instead of eating it, he taught the chick to peck and hide.
+Days passed, and his hunger faded—he had found a family.
+>>>>>>> 550aca6ab34d055e8409151b4432e43ade7f1544
